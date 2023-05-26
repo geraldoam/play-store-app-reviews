@@ -16,8 +16,6 @@ def get_reviews(app, lang, country):
 
     for result in results:
         review_id = result["reviewId"]
-        user_name = result["userName"]
-        user_image = result["userImage"]
         content = result["content"]
         score = result["score"]
         thumbs_up_count = result["thumbsUpCount"]
@@ -30,8 +28,6 @@ def get_reviews(app, lang, country):
         data.append(
             {
                 "Review ID": review_id,
-                # "User Name": user_name,
-                # "User Image": user_image,
                 "Content": content,
                 "Score": score,
                 "Thumbs Up Count": thumbs_up_count,
