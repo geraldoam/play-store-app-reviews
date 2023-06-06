@@ -6,9 +6,9 @@ A proposta é analisar um conjunto específico de avaliações de um aplicativo 
 
 ##### Atualmente temos:
 > 
-> - Pontuação.
->     - Pontuação por dia, saldo.
->     - Pontuação por versão do aplicativo.
+> - Avaliações.
+>     - Avaliaçãoes por dia, saldo.
+>     - Avaliaçãoes por versão do aplicativo.
 > - Comentários.
 >     - Qual os comentários mais curtidos com satisfação, avaliação, texto, versão e dia da publicação.
 >     - Núvem de palavras com os comentários.
