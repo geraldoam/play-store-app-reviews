@@ -2,7 +2,7 @@
 
 A proposta é analisar um conjunto específico de avaliações de um aplicativo na Play Store e apresentar os resultados por meio de gráficos e tabelas. Essas representações visuais fornecerão informações atualizadas sobre os acontecimentos recentes relacionados ao aplicativo.
 
-#### **[Clique aqui](https://drive.google.com/file/d/11gS1Plk4RHW5sx1nCmW_pX8FaEjtPndM/view?usp=sharing)** para rodar o script por conta própria na núvem. Recomendo que faça uma cópia.
+#### **[Clique aqui](https://colab.research.google.com/drive/1gXDCsxbVPxW0HnJxZEMmz77o8MM5TEjb?usp=sharing)** para rodar o script por conta própria na núvem. Recomendo que faça uma cópia.
 
 ##### Atualmente temos:
 > 
