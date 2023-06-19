@@ -14,7 +14,19 @@ A proposta é analisar um conjunto específico de avaliações de um aplicativo 
 >     - Qual os comentários mais curtidos com satisfação, avaliação, texto, versão e dia da publicação.
 >     - Núvem de palavras com os comentários.
 
-#### Exemplos de output.
-![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/4eb651dc-53bf-466d-ad2a-4ee121c0be92)
-![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/709c89e4-16f7-4812-98b4-8fced373afa7)
-![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/bc883719-21b8-427d-8274-14be10c629c8)
+<br>
+
+### Exemplos de output
+![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/8f0470fd-11b6-47b1-9f42-9749f6cf0e91)
+___
+![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/e0674fed-7ecb-4fe5-b906-5e09c0de4957)
+___
+![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/3136e84d-5e40-486e-a417-8469f00fe6e8)
+___
+![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/c652787c-d6a3-43b0-b995-75197f66a069)
+___
+![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/28d7cf8d-59ab-414a-8dee-d30d33a92402)
+___
+![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/7ed90c82-c32b-46e5-9b48-295499b792f0)
+
+
