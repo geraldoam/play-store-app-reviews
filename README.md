@@ -19,7 +19,7 @@ A proposta é analisar um conjunto específico de avaliações de um aplicativo 
 ### Exemplos de output
 ![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/8f0470fd-11b6-47b1-9f42-9749f6cf0e91)
 ___
-![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/e0674fed-7ecb-4fe5-b906-5e09c0de4957)
+![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/cee33421-6c1e-4164-a6c6-01f6a3ab468a)
 ___
 ![image](https://github.com/geraldoahnert/play-store-app-reviews/assets/41551840/3136e84d-5e40-486e-a417-8469f00fe6e8)
 ___
